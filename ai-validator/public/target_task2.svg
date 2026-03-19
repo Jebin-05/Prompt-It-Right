@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#1e1e1e"/>
+  <circle cx="200" cy="150" r="80" stroke="#6366f1" stroke-width="4"/>
+  <path d="M200 70 L200 230" stroke="#6366f1" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M120 150 L280 150" stroke="#6366f1" stroke-width="2" stroke-dasharray="4 4"/>
+  <text x="200" y="280" fill="#ffffff" font-family="monospace" font-size="14" text-anchor="middle">TARGET: ALIGNMENT</text>
+</svg>
